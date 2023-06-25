@@ -1,0 +1,21 @@
+//@mixin grid($cols, $margin) {
+// float: left;
+//background: #ce3d3d;
+// margin-right: $margin;
+//margin-bottom: $margin;
+//height: 200px;
+
+// @if($cols >=5) {
+//width: 100%;
+//margin-right: 0;
+//}
+
+// @else {
+//width: ((100% - (($cols - 1) * $margin)) / $cols);
+//margin-right: $margin;
+//}
+
+// &:nth-child(#{$cols}n) {
+//margin-right: 0;
+//}
+//}
